@@ -1,9 +1,5 @@
 # user_location
 
-[![pub package](https://img.shields.io/pub/v/user_location.svg)](https://pub.dartlang.org/packages/user_location) ![travis](https://api.travis-ci.com/lpongetti/flutter_map_marker_cluster.svg?branch=master) [![Codemagic build status](https://api.codemagic.io/apps/5e7057c82c964659341b9932/5e7057c82c964659341b9931/status_badge.svg)](https://codemagic.io/apps/5e7057c82c964659341b9932/5e7057c82c964659341b9931/latest_build)
-
-
-
 A plugin for [FlutterMap](https://github.com/johnpryan/flutter_map)  package to handle and plot the current user location
 
 
@@ -23,7 +19,7 @@ dependencies:
   flutter_map: any
   user_location:
     git:
-      url: https://github.com/igaurab/user_location_plugin.git
+      url: https://github.com/sergey-s-moiseev/user_location_plugin.git
 ```
 
 
