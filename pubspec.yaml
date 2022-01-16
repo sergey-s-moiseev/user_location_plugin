@@ -10,7 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  location: ^4.3.0
+  location:
+    git:
+      url: git@github.com:sergey-s-moiseev/flutterlocation.git
   flutter_map: ^0.14.0
   flutter_compass:
     git:
