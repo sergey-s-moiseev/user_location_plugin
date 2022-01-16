@@ -17,6 +17,7 @@ dependencies:
   flutter_compass:
     git:
       url: https://github.com/sergey-s-moiseev/flutter_compass.git
+      path: packages/location
 
 dev_dependencies:
   flutter_test:
